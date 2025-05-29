@@ -22,9 +22,12 @@ The dashboard includes interactive components that allow users to filter and exp
 - Visualization of **disparities** and outliers in library services globally
 - Clean, user-friendly design for data storytelling
 
-![Filters](![dashboard](https://github.com/user-attachments/assets/ebec6633-c23b-43ae-8372-465c3b3dc76f)
+![Filters](![Screenshot 2025-05-30 003840](https://github.com/user-attachments/assets/e1f63e68-7273-4618-87ef-bbe58dd60ccc)
 )
-![Detailed View](Screenshot%202025-05-30%20004005.png)
+
+![Detailed View](![Screenshot 2025-05-30 003810](https://github.com/user-attachments/assets/40021b82-1d86-41b0-bb19-98fddca457bd)
+)
+
 
 ## 📂 Project Files
 - `Screenshot 2025-05-30 003810.png` – Main dashboard overview
