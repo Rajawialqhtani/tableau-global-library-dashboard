@@ -45,10 +45,14 @@ The following visualizations showcase the comprehensive analytical capabilities 
 
 | Screenshot | Description | Key Features |
 |------------|-------------|--------------|
-| **dashboard (2).png** | Primary Dashboard Visualization | Complete overview of global library metrics with interactive elements and comprehensive data presentation |
-| **Screenshot 2025-05-30 003810.png** | Main Dashboard Overview | High-level summary of key performance indicators, regional distributions, and primary analytical insights |
-| **Screenshot 2025-05-30 003840.png** | Interactive Filters & Top-Level Insights | Dynamic filtering capabilities, parameter controls, and executive-level summary statistics |
-| **Screenshot 2025-05-30 004005.png** | Regional Deep Dive Analysis | Detailed country-level breakdowns, comparative analysis, and granular data exploration |
+| ![dashboard (2)](https://github.com/user-attachments/assets/8e88ae86-4876-426f-8a36-4ba971caf34d)
+| Primary Dashboard Visualization | Complete overview of global library metrics with interactive elements and comprehensive data presentation |
+| ![Screenshot 2025-05-30 003810](https://github.com/user-attachments/assets/d53b134c-ae5b-4da9-bb09-c830e25e479b)
+| Main Dashboard Overview | High-level summary of key performance indicators, regional distributions, and primary analytical insights |
+| ![Screenshot 2025-05-30 003840](https://github.com/user-attachments/assets/1af4f920-f4a6-4480-98e1-b5dac169f359)
+| Interactive Filters & Top-Level Insights | Dynamic filtering capabilities, parameter controls, and executive-level summary statistics |
+| ![dashboard](https://github.com/user-attachments/assets/b4c5461c-f496-41ff-aed4-56fb2078fa97)
+ | Regional Deep Dive Analysis | Detailed country-level breakdowns, comparative analysis, and granular data exploration |
 
 Each visualization demonstrates different aspects of the dashboard's analytical depth and interactive functionality, providing stakeholders with multiple perspectives on global library performance and accessibility patterns.
 
