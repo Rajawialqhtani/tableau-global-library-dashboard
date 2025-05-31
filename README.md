@@ -70,7 +70,7 @@ tableau-global-library-dashboard/
 ├── Screenshot 2025-05-30 003810.png   # Main dashboard view
 ├── Screenshot 2025-05-30 003840.png   # Filters and insights
 ├── Screenshot 2025-05-30 004005.png   # Regional deep dive
-└── [Tableau Workbook].twbx             # Tableau workbook file (if available)
+└── [Tableau Workbook].twbx             # Tableau workbook file 
 ```
 
 ## 🚀 Getting Started
